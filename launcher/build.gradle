@@ -21,6 +21,7 @@ android {
         applicationId 'com.HaiHa.ChefAssistant'
         ndk {
             abiFilters 'armeabi-v7a', 'arm64-v8a'
+            ndkVersion "23.1.7779620"
         }
         versionCode 1
         versionName '0.1'
@@ -53,6 +54,8 @@ android {
         doNotStrip '*/armeabi-v7a/*.so'
         doNotStrip '*/arm64-v8a/*.so'
     }
+
+
 
     bundle {
         language {
