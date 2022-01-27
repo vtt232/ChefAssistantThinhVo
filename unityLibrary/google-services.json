@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "957807223193",
+    "project_id": "chefassistant-88cd0",
+    "storage_bucket": "chefassistant-88cd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957807223193:android:33a8ee73255f2d954a7308",
+        "android_client_info": {
+          "package_name": "com.HaiHa.ChefAssistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957807223193-dq763n88o21um49q4elh5v8odfl1m1lp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Lw1CaU4BburEWz4lJ6PmEt9LVr-n39E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957807223193-dq763n88o21um49q4elh5v8odfl1m1lp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957807223193:android:81d55cbb254898d44a7308",
+        "android_client_info": {
+          "package_name": "com.unity3d.player"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957807223193-dq763n88o21um49q4elh5v8odfl1m1lp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Lw1CaU4BburEWz4lJ6PmEt9LVr-n39E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957807223193-dq763n88o21um49q4elh5v8odfl1m1lp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
